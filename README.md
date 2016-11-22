@@ -8,6 +8,10 @@ Adresse:
     Foo Bar Platz 2
     12345 Foo-Bar
 
+Foto:
+
+![Ich](stickman.jpg)
+
 Ausbildung
 ==========
 
